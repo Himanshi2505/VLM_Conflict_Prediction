@@ -1,0 +1,6 @@
+ultralytics
+numpy
+opencv-python
+pandas
+git+https://github.com/abewley/sort.git
+
